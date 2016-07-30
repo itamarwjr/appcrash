@@ -281,6 +281,15 @@ hr.small-light{
     border-radius: 0;
 }
 
+section #contact .helpblock, .text-danger ul{
+    list-style-type: none;
+    color: #D91E18;
+    text-align: left;
+    font-size: .5em;
+    margin: 0;
+    padding: 0;
+}
+
 /* Footer */
 
 footer {
